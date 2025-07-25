@@ -1,1 +1,1 @@
-the contributing file... i need to find out what the specification is.
+ All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
